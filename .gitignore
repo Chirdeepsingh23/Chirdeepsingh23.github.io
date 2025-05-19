@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Node modules (if you ever add JS tooling)
+node_modules/
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python virtualenvs (if any)
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode config (if not needed in repo)
+.vscode/
