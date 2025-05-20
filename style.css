@@ -71,33 +71,3 @@ img[alt*="badge"] {
   margin: 4px 4px 0 0;
   vertical-align: middle;
 }
-@media screen and (max-width: 768px) {
-  table, tbody, tr, td {
-    display: block;
-    width: 100% !important;
-    box-sizing: border-box;
-  }
-
-  td {
-    padding: 10px !important;
-  }
-
-  td img {
-    max-width: 100% !important;
-    height: auto !important;
-  }
-
-  h1 {
-    text-align: center;
-    font-size: 24px;
-  }
-
-  p.name {
-    text-align: center;
-  }
-
-  .hoverZoomLink {
-    display: block;
-    margin: 0 auto;
-  }
-}
